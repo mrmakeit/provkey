@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pogo)(type Legacy)(uri /home/blixa/projects/kicad_libraries/pogo.lib)(options "")(descr ""))
+  (lib (name Sparkfun)(type Legacy)(uri /home/blixa/projects/kicad_libraries/Sparkfun.lib)(options "")(descr ""))
+)
